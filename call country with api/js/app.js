@@ -16,7 +16,7 @@ countryApi()
 //     }
 
 // }
-// NOW IMPLEMENT FOREACH 
+// NEW IMPLEMENT FOREACH 
 const internationalConutry = (contry)=>{
     console.log(contry)
     const mainContainer = document.getElementById('mainContainer')
